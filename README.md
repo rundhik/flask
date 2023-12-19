@@ -19,15 +19,15 @@ Kebutuhan minimal aplikasi :
 
 - Lakukan upgrade pip terlebih dahulu untuk memudahkan pembaharuan pustaka-pustaka yang dibutuhkan di kemudian hari.
 
-        > Python -m pip install --upgrade pip
+        > python -m pip install --upgrade pip
 
 - Pasang package `virtualenv`
 
-        > Python -m pip install virtualenv
+        > python -m pip install virtualenv
 
 - Jika sudah masuk ke dalam folder proyek, buat virtual environment Python terlebih dahulu.
 
-        > Python -m virtualenv venv
+        > python -m virtualenv venv
 
 - Lakukan aktivasi pada environment yang baru saja dibuat.
 
